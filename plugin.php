@@ -5,7 +5,7 @@ Plugin URI: https://github.com/hareshhadiya7/Flipkart-affiliate
 Description: Add your Flipkart Affiliate affid to all flipkart URLs
 Version: 1.0
 Author: Haresh Hadiya
-Author URI: https://freeshoppingdeal.com/
+Author URI: https://www.facebook.com/hareshhadiya96
 
 */
 
